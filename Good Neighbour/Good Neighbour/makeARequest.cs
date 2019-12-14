@@ -16,5 +16,12 @@ namespace Good_Neighbour
         {
             InitializeComponent();
         }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            GoodNeighbourForm myForm = new GoodNeighbourForm();
+            this.Hide();
+            myForm.ShowDialog();
+            this.Close();
+        }
     }
 }
