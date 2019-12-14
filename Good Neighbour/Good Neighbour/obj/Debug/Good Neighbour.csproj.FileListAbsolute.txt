@@ -1,0 +1,15 @@
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good Neighbour.csprojAssemblyReference.cache
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good_Neighbour.GoodNeighbourForm.resources
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good_Neighbour.Properties.Resources.resources
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good Neighbour.csproj.GenerateResource.cache
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good Neighbour.csproj.CoreCompileInputs.cache
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\bin\Debug\Good Neighbour.exe.config
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\bin\Debug\Good Neighbour.exe
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\bin\Debug\Good Neighbour.pdb
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good Neighbour.exe
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good Neighbour.pdb
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good_Neighbour.createProfile.resources
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good_Neighbour.welcome.resources
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good_Neighbour.login.resources
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good_Neighbour.findAJob.resources
+C:\Users\julie\OneDrive\Documents\Spark Hacks 2019\Good Neighbour\Good Neighbour\obj\Debug\Good_Neighbour.makeARequest.resources
